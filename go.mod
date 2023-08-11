@@ -18,6 +18,6 @@ require (
 	github.com/xtaci/smux v1.5.12
 	golang.org/x/crypto v0.0.0-20210317152858-513c2a44f670
 	golang.org/x/net v0.0.0-20210316092652-d523dce5a7f4
-	golang.org/x/sys v0.0.0-20210317225723-c4fcb01b228e // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	google.golang.org/protobuf v1.23.0
 )
